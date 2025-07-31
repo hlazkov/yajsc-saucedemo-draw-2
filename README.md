@@ -1,0 +1,2 @@
+# yajsc-saucedemo-draw-2
+Dummy project with tests for saucedemo.com
