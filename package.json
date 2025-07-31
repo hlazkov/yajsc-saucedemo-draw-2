@@ -1,0 +1,23 @@
+{
+  "name": "yajsc-saucedemo-draw-2",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlazkov/yajsc-saucedemo-draw-2.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlazkov/yajsc-saucedemo-draw-2/issues"
+  },
+  "homepage": "https://github.com/hlazkov/yajsc-saucedemo-draw-2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
